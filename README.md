@@ -23,6 +23,9 @@ summer-projects 说明文档
 3. 将 [summer-sample](https://github.com/cn-cerc/summer-sample) clone 到本地进行环境测试
 
 # 文件命名
+1. 统一在文档下面建立两个文件夹 i-tool & i-work，并固定系统资源管理器的 `快速访问` 列表
+2. i-tool 用于存储开发需要的工具
+3. i-work 用于存储 GitHub 上对应的仓库
 
 # 软件设置
 
