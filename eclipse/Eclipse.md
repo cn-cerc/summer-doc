@@ -15,16 +15,17 @@
 **除第一个选项外全部勾起**
 显示打印边距
 显示空白字符
-![更改Text Editors1](assets/更改Text Editors1.png)
+![](assets/ChangeText Editors1.png)
 **点击configure visibility**
-![更改Text Editors](assets/更改Text Editors2.png)
-## 四、更改Java
+![](assets/ChangeText Editors2.png)
+四、更改Java
 **Window -> Preferences -> Java ->Code Style ->Formatter**
 ![更改Java1](assets/更改Java1.png)
 **创建profile**
 ![更改Java2](assets/更改Java2.png)
 **更改Tab policy 选择 Spaces only，只允许空格**
 ![更改Java3](assets/更改Java3.png)
+
 ## 五、更改JavaScript
 **Window -> Preferences -> JavaScript ->Code Style ->Formatter**
 ![更改JavaScript1](assets/更改JavaScript1.png)
