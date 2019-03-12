@@ -1,48 +1,63 @@
 # Windows
-## 小图标任务栏
-### 锁定任务栏
-## 服务器管理器
+小图标任务栏
+锁定任务栏
+服务器管理器
+
 ### 配置IE ESC
 - 管理员>关闭
 - 用户>关闭
+
 ## 必备软件
-### 下载Chrome
-### 下载bandzip
-### 下载jdk1.8
+
+## PS:建议以下软件使用Chrome下载，如果是国内服务器并且上传速度较快的话建议上传，如果可以科学上网建议下载
+
+### Chrome
+
+### bandzip
+
+### jdk1.8
 - 安装jdk
 - 安装jre
-### 下载tomcat8.5
+
+### tomcat8.5
 - 安装tomcat8.5
-### 下载maven3.6
+
+### maven3.6
 - 安装maven3.6
-### 下载eclipse
+
+### eclipse
 - Eclipse配置
-具体配置请参考：https://github.com/cn-cerc/summer-doc/blob/develop/eclipse/Eclipse.md
-  - 字体
-  - 缩进
-  - 代码格式
-  - lombok.jar
+  具体配置请参考：https://github.com/cn-cerc/summer-doc/blob/develop/eclipse/Eclipse.md
+- 字体
+- 缩进
+- 代码格式
+- lombok.jar
 导入lombok.jar，在lombok.jar文件夹路径中输入cmd打开命令提示符
 输入java -jar lombok.jar进行安装
 - 导入项目
 具体配置请参考：https://github.com/cn-cerc/summer-training
-  - 更改端口
-  - 更改目录为/
-### 下载git
-### 下载gitHub
+- 更改端口
+- 更改目录为/
+
+### git
+
+### gitHub
 - 克隆项目链接下载
-	- 打war包
-### 下载notepad++
-### 下载Redis
+- 打war包
+
+### notepad++
+
+### Redis
 - 启动redis-server
+
 ## 配置环境变量
+
 ### JAVA_HOME
 ```
 #输入你的JDK路径，下面是做演示
 C:\Program Files\Java\jdk1.8.0_201
 ```
 ### CLASSPATH
-
 ```
 .;%JAVA_HOME%\lib
 ```
