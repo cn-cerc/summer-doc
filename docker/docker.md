@@ -15,7 +15,7 @@ docker run --name some-redis -d redis
 开机自启动
 
 ```
-docker run --name **redis** -d -p 6379:6379 **--restart=always** redis
+docker run --name redis -d -p 6379:6379 --restart=always redis
 ```
 
 启用持久存储 
